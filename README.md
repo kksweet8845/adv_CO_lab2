@@ -5,12 +5,6 @@
 Using the RISC-V RV32I[MA] emulator with ELF support which the emulator is shared on Hackaday be Frank Buss.
 as a single C-file. Shaos added some additional statics and macros.
 
-### 9*9 multiplication table
-[Development Record](https://hackmd.io/@kksweet8845/rsicvlab299multitable)
-
-### Binary search
-[Development Record](https://hackmd.io/@kksweet8845/riscvlab2binarysearchtree)
-
 Requires libelf-dev:
 ```shell
 $ sudo apt-get install libelf-dev
@@ -52,3 +46,9 @@ And, This file can be separated into different parts.
 
 **Note**
 You should refer to the [RISC-V ISA Manual Volume II](https://content.riscv.org/wp-content/uploads/2017/05/riscv-privileged-v1.10.pdf) and [RISC-V ISA Manual Volume I](https://riscv.org/specifications/) carefully to understand the basic instruction set and some information of CSRs registers.
+
+## 9*9 multiplication table
+[Development Record](https://hackmd.io/@kksweet8845/rsicvlab299multitable)
+
+## Binary search
+[Development Record](https://hackmd.io/@kksweet8845/riscvlab2binarysearchtree)
