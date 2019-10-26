@@ -5,6 +5,11 @@
 Using the RISC-V RV32I[MA] emulator with ELF support which the emulator is shared on Hackaday be Frank Buss.
 as a single C-file. Shaos added some additional statics and macros.
 
+### 9*9 multiplication table
+[Development Record](https://hackmd.io/@kksweet8845/rsicvlab299multitable)
+
+### Binary search
+[Development Record](https://hackmd.io/@kksweet8845/riscvlab2binarysearchtree)
 
 Requires libelf-dev:
 ```shell
